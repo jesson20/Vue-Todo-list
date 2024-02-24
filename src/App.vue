@@ -87,7 +87,7 @@ onMounted(() => {
 					type="text" 
 					name="content" 
 					id="content" 
-					placeholder="e.g. make a video"
+					placeholder="e.g. do homework"
 					v-model="input_content" />
 				
 				<h4>Pick a category</h4>
